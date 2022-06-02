@@ -3,7 +3,6 @@ apiVersion: route.openshift.io/v1
 kind: Route
 metadata:
   name: bgd
-  namespace: bgd
 spec:
   path: /
   to:
