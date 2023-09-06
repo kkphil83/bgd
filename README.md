@@ -1,4 +1,4 @@
-# Blue/Green Test App for PR ApplicationSet1
+# Blue/Green Test App for PR ApplicationSet
 
 This is to test the [PR ApplicationSet Generator](https://argocd-applicationset.readthedocs.io/en/stable/Generators-Pull-Request/).
 
