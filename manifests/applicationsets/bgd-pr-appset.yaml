@@ -7,7 +7,7 @@ spec:
   generators:
   - pullRequest:
       github:
-        owner: justone0127
+        owner: kkphil83
         repo: bgd
         labels:
         - preview
@@ -17,7 +17,7 @@ spec:
       name: 'bgd-{{branch}}-{{number}}'
     spec:
       source:
-        repoURL: 'https://github.com/justone0127/bgd'
+        repoURL: 'https://github.com/kkphil83/bgd'
         targetRevision: '{{head_sha}}'
         path: app/overlays/default/
       project: default
